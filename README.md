@@ -3,6 +3,9 @@
 
 [DAY-1](#DAY-1)
 [DAY-2](#DAY-2)
+[DAY-3](#DAY-3)
+[DAY-4](#DAY-4)
+
 
 ### DAY 1
 Creating a TCL command
@@ -24,8 +27,20 @@ Convert all inputs to format[1] and SDC format and pass to synthesis tool 'Yosys
 
 ### DAY 3
 **Input and Output Constraints Generation and bits/Bussed Differentiation**
+
 ![prutha_day3_2](https://github.com/PruthaVernekar/VSD-TCL/assets/89785844/ac057d49-58eb-4e43-8085-b6b4604b2134)
 ![day 3 and 4](https://github.com/PruthaVernekar/VSD-TCL/assets/89785844/b1993486-94a8-4732-89c8-969d45bf8166)
+
+### DAY 4
+Introduction to Yosys synthesis tool usage
+
+![day4_21](https://github.com/PruthaVernekar/VSD-TCL/assets/89785844/0572cded-4702-491b-a416-e9650c83b38d)
+![day4_23](https://github.com/PruthaVernekar/VSD-TCL/assets/89785844/e82b565d-56ee-48d2-a4cc-636997d605c7)
+![day4_22](https://github.com/PruthaVernekar/VSD-TCL/assets/89785844/e9c4e6b7-225c-4698-a078-db703a7335c8)
+![day4last1](https://github.com/PruthaVernekar/VSD-TCL/assets/89785844/f72950ec-6651-4f1d-88ff-91e40431486d)
+![day4last](https://github.com/PruthaVernekar/VSD-TCL/assets/89785844/d50d51c4-0db1-4e8d-bfd5-2b5bdfd4d556)
+
+
 
 
 
