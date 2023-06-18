@@ -64,6 +64,8 @@ Convert all inputs to format [1] and SDC format and pass to synthesis tool 'Yosy
   ![day5_configfile](https://github.com/PruthaVernekar/VSD-TCL/assets/89785844/a015c3e7-50a4-4658-a90e-8678d4053638)
 
 
+
+
   
   
 
