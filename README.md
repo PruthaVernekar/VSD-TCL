@@ -63,7 +63,7 @@ Convert all inputs to format [1] and SDC format and pass to synthesis tool 'Yosy
   ![day_5conffile](https://github.com/PruthaVernekar/VSD-TCL/assets/89785844/6ce2bfdf-48db-4af0-af32-0daae25a8726)  
   ![day5_configfile](https://github.com/PruthaVernekar/VSD-TCL/assets/89785844/a015c3e7-50a4-4658-a90e-8678d4053638)
 
-  - Output SDC Constraints to Opentimer format
+  - Output SDC Constraints to Opentimer format and convert all bussed constraint to bit blasted constarints
      ```
         clock dco_clk 1500 50
         clock lfxt_clk 1600 40
