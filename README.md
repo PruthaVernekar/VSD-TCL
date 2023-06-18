@@ -14,7 +14,7 @@ Creating a TCL command
 ![image](https://github.com/PruthaVernekar/VSD-TCL/assets/89785844/8d2619ff-6e42-43e1-9a4c-8b427da15875)
 
 ### DAY 2
-*** Convert all inputs to format[1] and SDC format and pass to synthesis tool 'Yosys' ***
+Convert all inputs to format[1] and SDC format and pass to synthesis tool 'Yosys' 
 - Creating Variables :
 ![prutha_day2_1](https://github.com/PruthaVernekar/VSD-TCL/assets/89785844/f10ada53-108b-49b1-8374-360d083c1282)
 - Finding total rows and columns in given file :
@@ -23,7 +23,7 @@ Creating a TCL command
 ![prutha_day3_!](https://github.com/PruthaVernekar/VSD-TCL/assets/89785844/b92d5d30-7b16-41d6-bc3d-8563cb4cb73d)
 
 ### DAY 3
-Input and Output Constraints Generation and bits/Bussed Differentiation
+*** Input and Output Constraints Generation and bits/Bussed Differentiation ***
 ![prutha_day3_2](https://github.com/PruthaVernekar/VSD-TCL/assets/89785844/ac057d49-58eb-4e43-8085-b6b4604b2134)
 ![day 3 and 4](https://github.com/PruthaVernekar/VSD-TCL/assets/89785844/b1993486-94a8-4732-89c8-969d45bf8166)
 
