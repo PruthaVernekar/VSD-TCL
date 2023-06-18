@@ -1,5 +1,9 @@
 # VSD-TCL
 # TCL WORKSHOP
+- Create command and pass -csv from UNIX shell to TCL script
+- Convert all inputs to format [1] and SDC format and pass to synthesis to Yosys
+- Convert format [1] and SDC to format [2] and pass to timing tool 'Opentimer'
+- Generate Output report
 
 [DAY-1](#DAY-1)<br/>
 [DAY-2](#DAY-2)<br/>
@@ -17,7 +21,7 @@ Creating a TCL command
 ![image](https://github.com/PruthaVernekar/VSD-TCL/assets/89785844/8d2619ff-6e42-43e1-9a4c-8b427da15875)
 
 ### DAY 2
-Convert all inputs to format[1] and SDC format and pass to synthesis tool 'Yosys' 
+Convert all inputs to format [1] and SDC format and pass to synthesis tool 'Yosys' 
 - Creating Variables :
 ![prutha_day2_1](https://github.com/PruthaVernekar/VSD-TCL/assets/89785844/f10ada53-108b-49b1-8374-360d083c1282)
 - Finding total rows and columns in given file :
