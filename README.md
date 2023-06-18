@@ -19,9 +19,16 @@ Convert all inputs to format[1] and SDC format and pass to synthesis tool 'Yosys
 ![prutha_day2_1](https://github.com/PruthaVernekar/VSD-TCL/assets/89785844/f10ada53-108b-49b1-8374-360d083c1282)
 - Finding total rows and columns in given file :
 ![prutha_day2_2_2](https://github.com/PruthaVernekar/VSD-TCL/assets/89785844/0c3648d2-72ef-40de-8780-f29adf834f3b)
-![prutha_day2_2_3](https://github.com/PruthaVernekar/VSD-TCL/assets/89785844/5b84ccc3-008f-4dd4-81a4-182cc1bc68b0)
 ![prutha_day2_2_4](https://github.com/PruthaVernekar/VSD-TCL/assets/89785844/b80f1a3f-050f-4eb6-a818-b8bab5bc6f43)
 ![prutha_day3_!](https://github.com/PruthaVernekar/VSD-TCL/assets/89785844/b92d5d30-7b16-41d6-bc3d-8563cb4cb73d)
+
+### DAY 3
+Input and Output Constraints Generation and bits/Bussed Differentiation
+![prutha_day3_2](https://github.com/PruthaVernekar/VSD-TCL/assets/89785844/ac057d49-58eb-4e43-8085-b6b4604b2134)
+![day 3 and 4](https://github.com/PruthaVernekar/VSD-TCL/assets/89785844/b1993486-94a8-4732-89c8-969d45bf8166)
+
+
+
 
 
 
