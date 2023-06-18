@@ -2,7 +2,7 @@
 # TCL WORKSHOP
 
 [DAY-1](#DAY-1)
-'''json
+```json
 ### DAY 1
 Creating a TCL command
 + General Scenarios-From user point of view
@@ -11,4 +11,4 @@ Creating a TCL command
   - Type "-help" to find out usage
   
 ![image](https://github.com/PruthaVernekar/VSD-TCL/assets/89785844/8d2619ff-6e42-43e1-9a4c-8b427da15875)
-'''
+```
