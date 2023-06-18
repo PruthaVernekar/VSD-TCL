@@ -39,6 +39,7 @@ Introduction to Yosys synthesis tool usage
 Hierachy check and error handling script creation for yosys
 
 ![day4_23](https://github.com/PruthaVernekar/VSD-TCL/assets/89785844/e82b565d-56ee-48d2-a4cc-636997d605c7)
+
 ![day4_22](https://github.com/PruthaVernekar/VSD-TCL/assets/89785844/e9c4e6b7-225c-4698-a078-db703a7335c8)
 ![day4last1](https://github.com/PruthaVernekar/VSD-TCL/assets/89785844/f72950ec-6651-4f1d-88ff-91e40431486d)
 ![day4last](https://github.com/PruthaVernekar/VSD-TCL/assets/89785844/d50d51c4-0db1-4e8d-bfd5-2b5bdfd4d556)
