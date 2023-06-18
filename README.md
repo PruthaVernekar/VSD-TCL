@@ -43,6 +43,27 @@ Convert all inputs to format[1] and SDC format and pass to synthesis tool 'Yosys
 ![day4last1](https://github.com/PruthaVernekar/VSD-TCL/assets/89785844/f72950ec-6651-4f1d-88ff-91e40431486d)
 ![day4last](https://github.com/PruthaVernekar/VSD-TCL/assets/89785844/d50d51c4-0db1-4e8d-bfd5-2b5bdfd4d556)
 
+### DAY 5
+- Synthesis main file scripting and ouput file editing
+  ![day5112](https://github.com/PruthaVernekar/VSD-TCL/assets/89785844/0b86d7c3-a4c5-4fa9-bbf0-f5eba6477724)
+  ![day5_2](https://github.com/PruthaVernekar/VSD-TCL/assets/89785844/b1b573c4-58ae-4b96-b431-d8388034fdb7)
+
+- error in executing Synthesis file
+  ![day5_!!](https://github.com/PruthaVernekar/VSD-TCL/assets/89785844/3dce8e18-561e-4778-a8ff-dd75cd407a6e)
+
+- Introduction to procs and demo of redirect stdout proc
+  ![day_5_procs](https://github.com/PruthaVernekar/VSD-TCL/assets/89785844/02dd5608-97bb-4dd1-ba43-b63bbea4ae22)
+
+- Timing analysis and config file generation
+  ![day5_procs_ex](https://github.com/PruthaVernekar/VSD-TCL/assets/89785844/020a5ddb-c9d5-4808-a874-0ad05990d184)
+  ![day_5conffile](https://github.com/PruthaVernekar/VSD-TCL/assets/89785844/6ce2bfdf-48db-4af0-af32-0daae25a8726)  
+  ![day5_configfile](https://github.com/PruthaVernekar/VSD-TCL/assets/89785844/a015c3e7-50a4-4658-a90e-8678d4053638)
+
+
+  
+  
+
+
 
 
 
