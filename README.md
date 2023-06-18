@@ -35,6 +35,9 @@ Convert all inputs to format[1] and SDC format and pass to synthesis tool 'Yosys
 Introduction to Yosys synthesis tool usage
 
 ![day4_21](https://github.com/PruthaVernekar/VSD-TCL/assets/89785844/0572cded-4702-491b-a416-e9650c83b38d)
+
+Hierachy check and error handling script creation for yosys
+
 ![day4_23](https://github.com/PruthaVernekar/VSD-TCL/assets/89785844/e82b565d-56ee-48d2-a4cc-636997d605c7)
 ![day4_22](https://github.com/PruthaVernekar/VSD-TCL/assets/89785844/e9c4e6b7-225c-4698-a078-db703a7335c8)
 ![day4last1](https://github.com/PruthaVernekar/VSD-TCL/assets/89785844/f72950ec-6651-4f1d-88ff-91e40431486d)
