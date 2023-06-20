@@ -466,7 +466,9 @@ Convert all inputs to format [1] and SDC format and pass to synthesis tool 'Yosy
    ![day5speff](https://github.com/PruthaVernekar/VSD-TCL/assets/89785844/5a3f295d-47e7-45ba-836f-5b4e6ba7eabc)
    ![day5spef](https://github.com/PruthaVernekar/VSD-TCL/assets/89785844/1183d072-c64f-4c69-bf76-647126c452aa)
    ![day5conf](https://github.com/PruthaVernekar/VSD-TCL/assets/89785844/4b6c975b-9604-4bf2-a3b8-eb2433654960)
-
+  
+-Expected final format output :
+    ![WhatsApp Image 2023-06-20 at 20 57 47](https://github.com/PruthaVernekar/VSD-TCL/assets/89785844/bccf4b4f-722d-43b1-8c3b-088055064c0e)
 
 
 
